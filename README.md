@@ -1,1 +1,7 @@
-# zahinawosaf.github.io
+# Developer
+
+### Education
+BSc in CSE
+
+### Experience
+PowerBI
